@@ -1,5 +1,5 @@
-# GCMS-iago-silva
+# GCMS-iago-pedro
 
 Segue abaixo a lista de colaboradores deste repositório:
 
-* Iago Silva (@iagopedro, dono)
+* Iago Pedro (@iagopedro, dono)
